@@ -1,22 +1,86 @@
-h1{
-color: red;
+.nav{
+     word-spacing: 30px;
+     width: 10000px;
+     background-color:rgba(134, 132, 122, 0.048); /* Цвет фона */
+     padding: 10px; /* Поля вокруг текста */
+     height: 40px;
+     color: rgb(170, 165, 161);
+    /* margin-left: 200px; /* Отступ слева */
 }
-h2{
-color: purple
-}
-h3{
-color:royalblue
-}
-h4{
-color: seagreen;
-}
-h5{
-color: rgb(125, 179, 100);    
-}
-h6{
-color:rgb(70, 39, 43)
-}
-.div1{
-color: brown;
+.main1{
+    font-size: 30px;
+    margin-left: 130px;
+    background-color:rgba(134, 132, 122, 0.048)
 
+
+}
+.pmain1{
+    font-size: 20px;
+    background-color: rgb(44, 146, 172);
+    width: 100px;
+    color: white;
+    padding: 10px; /* Поля вокруг текста */
+    border-radius: 5px; /* Уголки */
+}
+.main2{
+    margin-left: 130px;
+}
+.pmain2{
+    font-size: 25px
+
+
+}
+.p2main2{
+    margin-left: 700px;
+    padding: 10px; /* Поля вокруг текста */
+    border-radius: 5px; /* Уголки */
+    background-color: rgb(44, 146, 172);
+    width: 100px;
+    color: white;
+}
+.kolxoz{
+    margin-left: 130px;
+}
+.main3{
+    margin-left: 130px;
+    
+
+
+
+}
+.pmain3{
+    font-size: 25px
+
+}
+.p3main{
+    margin-left: 700px;
+    padding: 10px; /* Поля вокруг текста */
+    border-radius: 5px; /* Уголки */
+    background-color: rgb(44, 146, 172);
+    width: 100px;
+    color: white;
+
+
+}
+.kolxoz2{
+    margin-left: 130px;
+}
+.main4{
+    margin-left: 130px;
+    
+}
+.img3{
+    margin-left: 150px;
+}
+.img2{
+    margin-left: 140px;
+}
+.main5{
+    margin-left: 490px;
+    padding: 5px; /* Поля вокруг текста */
+    border-radius: 5px; /* Уголки */
+    background-color: rgb(44, 146, 172);
+    width: 100px;
+    color: white;
+    height: 30px;
 }
