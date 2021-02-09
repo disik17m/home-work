@@ -1,86 +1,97 @@
+.contenier{
+
+    font-family: arial ;
+    background-color: black;
+
+}
 .nav{
-     word-spacing: 30px;
-     width: 10000px;
-     background-color:rgba(134, 132, 122, 0.048); /* Цвет фона */
-     padding: 10px; /* Поля вокруг текста */
-     height: 40px;
-     color: rgb(170, 165, 161);
-    /* margin-left: 200px; /* Отступ слева */
+    background-color:  black  ;
+    width: 1008px;
+    height: 64px;
 }
-.main1{
-    font-size: 30px;
-    margin-left: 130px;
-    background-color:rgba(134, 132, 122, 0.048)
+.mp{
+    width: 100%;
+    align-content: center;
 
 
 }
-.pmain1{
-    font-size: 20px;
-    background-color: rgb(44, 146, 172);
-    width: 100px;
-    color: white;
-    padding: 10px; /* Поля вокруг текста */
-    border-radius: 5px; /* Уголки */
+.afp{
+    color: #02918c ;
+    text-align: center;
 }
-.main2{
-    margin-left: 130px;
+.afbt{
+    text-align: center;
+    color: rgb(90, 88, 88);
 }
-.pmain2{
-    font-size: 25px
-
-
-}
-.p2main2{
-    margin-left: 700px;
-    padding: 10px; /* Поля вокруг текста */
-    border-radius: 5px; /* Уголки */
-    background-color: rgb(44, 146, 172);
-    width: 100px;
-    color: white;
-}
-.kolxoz{
-    margin-left: 130px;
-}
-.main3{
-    margin-left: 130px;
-    
-
-
-
-}
-.pmain3{
-    font-size: 25px
-
-}
-.p3main{
-    margin-left: 700px;
-    padding: 10px; /* Поля вокруг текста */
-    border-radius: 5px; /* Уголки */
-    background-color: rgb(44, 146, 172);
-    width: 100px;
-    color: white;
-
-
-}
-.kolxoz2{
-    margin-left: 130px;
-}
-.main4{
-    margin-left: 130px;
+.fimg{
+    position: relative;
+    left: 240px;
     
 }
-.img3{
-    margin-left: 150px;
+.tfi{
+    position: relative;
+    left: 190px;
+    font-size: small;
+    color: rgb(90, 88, 88);
+}   
+.h1p{
+    position: relative;
+    left: -52px;
+    color:rgb(90, 88, 88); 
+    }
+.tsi{
+    position: relative; 
+    left: 511px;
+    bottom: 155px;
+   
 }
-.img2{
-    margin-left: 140px;
+.h2p{
+    color:rgb(90, 88, 88);
+    position: relative; 
+    left: -50px;
+
+
 }
-.main5{
-    margin-left: 490px;
-    padding: 5px; /* Поля вокруг текста */
-    border-radius: 5px; /* Уголки */
-    background-color: rgb(44, 146, 172);
-    width: 100px;
-    color: white;
-    height: 30px;
+.tsp{
+    position: relative;
+    left: 460px;    
+    bottom: 155px;
+    font-size: small;
+    color :rgb(90, 88, 88);
+
+}   
+.tti{
+    position: relative;
+    left: 732px;
+    bottom: 308px;
+    
+}
+.h3p{
+    color:rgb(90, 88, 88);
+    position: relative;
+    left: -45px;
+}   
+.t3p{
+    color: rgb(90, 88, 88) ;
+    position: relative;
+    left: -40px;
+    font-size: small;
+}
+.p4l{
+    position: relative;
+    left:  970px;
+    bottom: 455px;
+}
+.h4p{
+    position: relative;
+    color:rgb(90, 88, 88) ;
+    left: -42px;
+}
+.p4t{
+    color:rgb(90, 88, 88) ;
+    font-size: small;
+    position: relative;
+    left: 930px;
+    bottom: 455px;
+    
 }
