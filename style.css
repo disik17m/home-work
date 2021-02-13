@@ -1,97 +1,91 @@
 .contenier{
-
-    font-family: arial ;
-    background-color: black;
-
-}
-.nav{
-    background-color:  black  ;
-    width: 1008px;
-    height: 64px;
-}
-.mp{
-    width: 100%;
-    align-content: center;
-
-
-}
-.afp{
-    color: #02918c ;
-    text-align: center;
-}
-.afbt{
-    text-align: center;
-    color: rgb(90, 88, 88);
-}
-.fimg{
-    position: relative;
-    left: 240px;
+    width: max-content;
+    font-family: arial, sans-serif;
+    height: max-content;
     
+
 }
-.tfi{
+.lph{
+    left: 208px;
     position: relative;
-    left: 190px;
-    font-size: small;
-    color: rgb(90, 88, 88);
-}   
-.h1p{
-    position: relative;
-    left: -52px;
-    color:rgb(90, 88, 88); 
-    }
-.tsi{
-    position: relative; 
-    left: 511px;
-    bottom: 155px;
-   
 }
-.h2p{
-    color:rgb(90, 88, 88);
-    position: relative; 
-    left: -50px;
+.tn{
+    position: relative;
+    left: 300px;
+    bottom: 80px;
+    color: rgb(54, 51, 51);
+}
+.tns{
+    font-size: 15px;
+    color: rgb(54, 51, 51);
+    position: relative;
+    left: 230px;
+    font-weight: bold;
+}
+.tns1{
+    position: relative;
+    left: -14px;
+    bottom: 60px;
 
 
 }
-.tsp{
+.tns2{
     position: relative;
-    left: 460px;    
-    bottom: 155px;
-    font-size: small;
-    color :rgb(90, 88, 88);
-
-}   
-.tti{
-    position: relative;
-    left: 732px;
-    bottom: 308px;
-    
+    left: 90px;
+    bottom: 92px;
 }
-.h3p{
-    color:rgb(90, 88, 88);
+.tns3{
     position: relative;
+    left: 207px;
+    bottom: 125px;
+
+}
+.tns4{
+    position: relative;
+    left: 340px;
+    bottom: 157px;
+}
+.tns5{
+    position: relative;
+    left: 450px;
+    bottom: 189px;
+}
+.tns6{
+    position: relative;
+    left: 580px;
+    bottom: 222px;
+
+}
+.tns7{
+    position: relative;
+    left: 660px;
+    bottom: 253px;
+}
+.tns8{
+    position: relative;
+    left: 760px;
+    bottom: 285px;
+
+}
+.mainpic{
+    background-image: url('../img/mpic.jpg') ;
+    background-repeat: no-repeat;
+    width: 1500px;
+    height: 1500px;
+    position: relative;
+    bottom: 274px;
     left: -45px;
-}   
-.t3p{
-    color: rgb(90, 88, 88) ;
-    position: relative;
-    left: -40px;
-    font-size: small;
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+
 }
-.p4l{
+.contenier{
     position: relative;
-    left:  970px;
-    bottom: 455px;
-}
-.h4p{
-    position: relative;
-    color:rgb(90, 88, 88) ;
-    left: -42px;
-}
-.p4t{
-    color:rgb(90, 88, 88) ;
-    font-size: small;
-    position: relative;
-    left: 930px;
-    bottom: 455px;
+    left: 37px;
     
+}
+.mph1{
+    position: relative;
+    left: 400px;
 }
